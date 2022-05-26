@@ -1,3 +1,3 @@
 # alx-system_engineering-devops
-Script AP
+Repo command scripts
 Project on 0x00 shell basics
