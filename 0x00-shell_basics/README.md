@@ -1,1 +1,1 @@
-Commands in scripts and their functions, will update later.
+Commands in scripts and their functions, will update later
